@@ -1,0 +1,61 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>Starbucks</title>
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <nav>
+                    <a href="#" class="logo"><img src="./images/logo.png"
+                            alt=""></a>
+                    <ul>
+                        <li><a href="#">home</a></li>
+                        <li><a href="#">menu</a></li>
+                        <li><a href="#">what's new</a></li>
+                        <li><a href="#">contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <section>
+            <div>
+                <h2>It's just not Coffee <br> It's <span>Starbucks</span></h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Minima incidunt veritatis minus dignissimos et dolores
+                    voluptate, aperiam officiis sit laudantium saepe ea
+                    dolorem
+                    tempora tenetur sed rerum ipsa porro error vero? Ea
+                    earum,
+                    iusto nam maxime provident quod accusantium dolor
+                    tempore
+                    aliquam, consequatur laboriosam alias rerum repellat, ex
+                    eaque doloribus.</p>
+                <div>
+                    <button class="btn">Learn More</button>
+                </div>
+            </div>
+            <div>
+                <img src="./images/img1.png" alt="">
+            </div>
+            <div>
+                <ul>
+                    <li><a href="#"><img src="./images/facebook.png" alt=""></a></li>
+                    <li><a href="#"><img src="./images/twitter.png" alt=""></a></li>
+                    <li><a href="#"><img src="./images/instagram.png"
+                                alt=""></a></li>
+                </ul>
+            </div>
+        </section>
+        <footer>
+            <ul>
+                <li><img src="./images/thumb1.png" alt=""></li>
+                <li><img src="./images/thumb2.png" alt=""></li>
+                <li><img src="./images/thumb3.png" alt=""></li>
+            </ul>
+        </footer>
+    </body>
+</html>
